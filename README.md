@@ -113,7 +113,7 @@ git config --global user.email "your@email.com"
 
 ## 🌍 Live Demo
 
-Live URL: Will be updated after deployment  
+Live URL: https://smart-bookmark-app-rho-five.vercel.app 
 GitHub Repo: https://github.com/Manoj528447/smart-bookmark-app
 
 ---
