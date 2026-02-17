@@ -111,13 +111,6 @@ git config --global user.email "your@email.com"
 
 ---
 
-## 🌍 Live Demo
-
-Live URL: https://smart-bookmark-app-rho-five.vercel.app 
-GitHub Repo: https://github.com/Manoj528447/smart-bookmark-app
-
----
-
 ## ⏱ Time Taken
 
 Approximately 14 hours to complete including:
